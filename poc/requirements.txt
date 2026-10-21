@@ -1,0 +1,9 @@
+# Python standard library only:
+# - socket
+# - ssl
+# - struct
+# - argparse
+# - urllib.parse
+# - time
+#
+# Requires: Python >= 3.8
